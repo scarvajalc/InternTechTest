@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 data/
+wiki-news-300d-1M.vec
+my_model.h5
